@@ -14,7 +14,7 @@ git pull
 ansible-playbook linux_only.yml -e "module=5" --ask-pass --ask-become-pass
 ```
 
-**Contraseñas:** `123456` y `Enter`
+
 
 ---
 
