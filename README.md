@@ -1,6 +1,5 @@
 # 🚀 Proyecto Ansible - Linux Automation
 
-> **📖 [LEE ESTO PRIMERO: docs/GUIA_COMPLETA.md](docs/GUIA_COMPLETA.md)**
 
 Automatización completa para gestionar tu VM Linux Mint con Ansible desde WSL.
 
@@ -21,7 +20,7 @@ ansible-playbook linux_only.yml -e "module=5" --ask-pass --ask-become-pass
 
 ## 📚 Documentación
 
-- **[docs/GUIA_COMPLETA.md](docs/GUIA_COMPLETA.md)** ← TODO lo que necesitas
+
 
 ---
 
@@ -76,7 +75,6 @@ ansible_oficial/
 
 ## 🖥️ Tu Configuración
 
-- **Linux Mint**: glender-vm - 192.168.11.137 - Usuario: glender
 - **WSL**: ~/ansible_off/ansbie_ernesto/
 - **Playbook**: linux_only.yml (solo Linux)
 
