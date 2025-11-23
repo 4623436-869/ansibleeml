@@ -89,4 +89,4 @@ ansible-galaxy install -r requirements.yml
 
 ---
 
-**📖 Para más detalles, lee: [docs/GUIA_COMPLETA.md](docs/GUIA_COMPLETA.md)**
+
